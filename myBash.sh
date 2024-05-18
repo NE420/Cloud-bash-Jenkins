@@ -1,4 +1,4 @@
 #!/bin/bash
 
-dir
+ls
 #change test
