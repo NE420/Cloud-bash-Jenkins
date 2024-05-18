@@ -1,4 +1,4 @@
-#!/bin/bash
+@ECHO OFF
 
 dir
 #change test
